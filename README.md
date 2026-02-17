@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on Ui development<br>i'm looking to collaborate on AIML<br>i'm looking for help with carrer grwoth<br>I'm currently learning AIML with pluto Academy<br><br>I'm currently doing AIML course with IIT Patna<br>
+i'm currently working on Ui development<br>i'm looking to collaborate on AIML<br>i'm looking for help with carrer grwoth<br>I'm currently learning AIML with pluto Academy<br>I'm currently doing AIML course with IIT Patna<br>
 
 
 # 💻 Tech Stack:
